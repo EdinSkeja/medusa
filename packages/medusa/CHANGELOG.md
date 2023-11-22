@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.18.1
+
+### Patch Changes
+
+- [#5536](https://github.com/medusajs/medusa/pull/5536) [`dc5750dd6`](https://github.com/medusajs/medusa/commit/dc5750dd665a91d35c0246ba83c7f90ec74907f4) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(medusa,types,workflows,utils,product): PricingModule Integration of PriceLists into Core
+
+- Updated dependencies [[`dc5750dd6`](https://github.com/medusajs/medusa/commit/dc5750dd665a91d35c0246ba83c7f90ec74907f4)]:
+  - @medusajs/workflows@0.3.1
+  - @medusajs/utils@1.11.1
+
 ## 1.18.0
 
 ### Minor Changes

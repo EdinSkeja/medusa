@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 1.11.8
+
+### Patch Changes
+
+- [#5536](https://github.com/medusajs/medusa/pull/5536) [`dc5750dd6`](https://github.com/medusajs/medusa/commit/dc5750dd665a91d35c0246ba83c7f90ec74907f4) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(medusa,types,workflows,utils,product): PricingModule Integration of PriceLists into Core
+
 ## 1.11.7
 
 ### Patch Changes
